@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6n0106/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 百法明門論直解
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X48/X48n0805.xml
+    old_id: X48n0805
+hash: sha256:9438b1d5864b887072a6b4cb6c8b8916ee3fdb5afc99f435b31d6803e8b3e54f

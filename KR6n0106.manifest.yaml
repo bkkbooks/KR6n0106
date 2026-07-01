@@ -1,0 +1,42 @@
+canonical_identifier: bkk:krp/KR6n0106/v1
+canonical_location: https://kanripo.org/bkk/KR6n0106/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 百法明門論直解
+  identifiers:
+    alt_id:
+    - X48n0805
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X48/X48n0805.xml
+    old_id: X48n0805
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6n0106_000.yaml, hash: 'sha256:9438b1d5864b887072a6b4cb6c8b8916ee3fdb5afc99f435b31d6803e8b3e54f'}
+  - {seq: 1, filename: KR6n0106_001.yaml, hash: 'sha256:d0698f1bfe83ceb4236fd5a59f481a0cc4d1cf8305015a2ffe5c428e681cfa91'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6n0106_001.markers.yaml, hash: 'sha256:da98da3010b26cf1066cdd2a779e158d63f34148f93769464931b6f26b23de80'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6n0106_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 5632
+  label: 大乘百法明門論直解
+  type: juan
+  level: 1
+hash: sha256:088d82222f4b00cbfcc8c43c3fee48c0acde5fc6bf76159f901edace711851a8
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

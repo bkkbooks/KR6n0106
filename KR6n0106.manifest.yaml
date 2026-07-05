@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6n0106_000.yaml, hash: 'sha256:9438b1d5864b887072a6b4cb6c8b8916ee3fdb5afc99f435b31d6803e8b3e54f'}
-  - {seq: 1, filename: KR6n0106_001.yaml, hash: 'sha256:d0698f1bfe83ceb4236fd5a59f481a0cc4d1cf8305015a2ffe5c428e681cfa91'}
+  - {seq: 1, filename: KR6n0106_001.yaml, hash: 'sha256:07ee429ac3b263e9ae8a897b755fb3bbdf34e93c9f29b4cad25136d71b17bcf2'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6n0106_001.markers.yaml, hash: 'sha256:da98da3010b26cf1066cdd2a779e158d63f34148f93769464931b6f26b23de80'}
+  - {seq: 0, role: markers, filename: assets/KR6n0106_000.markers.yaml, hash: 'sha256:350e48c0723da1cd8b8e370e6e333c3933cc1b4d932e0048a2c68ca138b48fdc'}
+  - {seq: 1, role: markers, filename: assets/KR6n0106_001.markers.yaml, hash: 'sha256:4a804ef20f931a4a176d46221ec2b8bca2320f1eb2289dd27ad7ac200365121f'}
 table_of_contents:
 - ref:
     seq: 1
@@ -36,7 +37,4 @@ table_of_contents:
   label: 大乘百法明門論直解
   type: juan
   level: 1
-hash: sha256:088d82222f4b00cbfcc8c43c3fee48c0acde5fc6bf76159f901edace711851a8
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:88f392d82fd0318eaeb87a27ddf4f21f17cb8b235f4f212c86d7300fe68274bc
